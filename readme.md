@@ -1,5 +1,5 @@
 
-# ✅ Requirements to Attend the AI + Local Agent Talk
+# ✅ Requirements to Attend the Talk
 
 Welcome! To get the most out of this talk and actively follow along with demos and hands-on projects, please make sure to complete the following setup **before the session**.
 
