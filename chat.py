@@ -1,7 +1,7 @@
 
 import requests
 
-MODEL = "gemma3:1b"
+MODEL = "deepseek-r1:1.5b"
 
 def chat():
     print("🤖 DeepSeek Chat Assistant (type 'exit' or 'q' to quit)")
