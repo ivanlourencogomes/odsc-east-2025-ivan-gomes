@@ -36,7 +36,6 @@ Ollama lets you run powerful AI models **locally**.
 ```bash
 ollama pull deepseek-r1:1.5b
 ollama pull deepseek-coder
-ollama pull llama3.2:1b
 ```
 
 This may take a few minutes depending on your connection.
